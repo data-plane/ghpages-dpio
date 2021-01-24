@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://data-plane.io/thankyou/</loc>
+    <lastmod>2021-01-23T17:49:05+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://data-plane.io/blog/another-post-the-forth-really/</loc>
     <lastmod>2020-09-06T21:19:00+02:00</lastmod>
   </url>
