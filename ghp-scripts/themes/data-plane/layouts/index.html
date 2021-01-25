@@ -44,9 +44,9 @@
       </section>
 
       <section class="md:w-1/3 md:m-2 md:mr-0 mb-5">
-        <h2 class="home-title uppercase text-sm mb-2">Next Webinars</h2>
+        <h2 class="home-title uppercase text-sm mb-2">Events</h2>
         <ul class="home-webinars">
-          {{ range where .Site.RegularPages "Section" "webinars-events" | first 3 }}
+          {{ range where .Site.RegularPages "Section" "webinars-events" | first 5 }}
           <li class="mb-1">
               {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
               <small class="font-bold">{{ .PublishDate.Format $dateFormat }}</small> 
