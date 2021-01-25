@@ -5,7 +5,7 @@
       <h1 class="hero-title mt-32 mb-8 md:mb-16 font-normal"><span>Enterprise cloud data plane.</span>Any environment. Any service.</h1>
       <div class="hero-text flex flex-wrap md:flex-no-wrap">
         <div class="hero-card w-full my-2 md:w-1/3 md:m-2 md:ml-0 p-3">
-          <h2 class="font-normal text-xl">Build your cloud.</h2>
+          <h2 class="font-normal text-xl">Build and secure your cloud.</h2>
           <p class="text-sm">Build and secure your data plane on top of your cloud-based infrastructure using the best practices such as automation, IaC, DevOps, CI/CD, holistic monitoring, and DevSecOps, among others.</p>
         </div>
         <div class="hero-card w-full my-2 md:w-1/3 md:m-2 p-3">
@@ -30,14 +30,14 @@
           <ul class="home-posts md:flex md:flew-row md:-mr-1 md:-ml-1">
             {{ range where .Paginator.Pages.ByDate.Reverse "Section" "blog" | first 3 }}
               <li class="mb-2 md:m-1 p-5 md:w-1/3 flex flex-col">
-                  {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
-                  <small class="font-bold">{{ .PublishDate.Format $dateFormat }}</small> 
-                  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3> 
-                  <div class="text-sm flex-1">{{ .Summary }}</div>
-                  <a class="home-readmore font-bold text-xs mt-4" href="{{ .Permalink }}">Read More</a>
-                  <!-- ShareThis BEGIN -->
-                  <div class="sharethis-inline-share-buttons" data-url="{{ .Permalink }}" data-title="{{ .Title }}"></div>
-                  <!-- ShareThis END -->
+                {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+                <small class="font-bold">{{ .PublishDate.Format $dateFormat }}</small> 
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3> 
+                <div class="text-sm flex-1">{{ .Summary }}</div>
+                <a class="home-readmore font-bold text-xs mt-4" href="{{ .Permalink }}">Read More</a>
+                <!-- ShareThis BEGIN -->
+                <div class="sharethis-inline-share-buttons" data-url="{{ .Permalink }}" data-title="{{ .Title }}"></div>
+                <!-- ShareThis END -->
               </li>
             {{ end }}
           </ul>
@@ -47,7 +47,7 @@
         <h2 class="home-title uppercase text-sm mb-2">Events</h2>
         <ul class="home-webinars">
           {{ range where .Site.RegularPages "Section" "webinars-events" | first 5 }}
-          <li class="mb-1">
+            <li class="mb-1">
               {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
               <small class="font-bold">{{ .PublishDate.Format $dateFormat }}</small> 
               <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3> 
