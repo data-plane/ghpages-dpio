@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Data Plane</title>
+    <link>https://data-plane.io/tags/devops/</link>
+    <description>Recent content in DevOps on Data Plane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Oct 2020 13:24:28 +0200</lastBuildDate><atom:link href="https://data-plane.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation in Big Data Projects</title>
+      <link>https://data-plane.io/blog/automation-in-bigdata/</link>
+      <pubDate>Tue, 13 Oct 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://data-plane.io/blog/automation-in-bigdata/</guid>
+      <description>&lt;p&gt;If you are involved in Big Data, Data Lake, Machine Learning or IA projects, the big concern is how to move huge amount of data smoothly. The short answer is with &lt;strong&gt;automation&lt;/strong&gt;. You will need to automatize bored, manual and heavy tasks along the Capture, Store and Analysis stages.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://raw.githubusercontent.com/chilcano/docker-wso2bam-kismet-poc/master/chilcano-wso2bam-wifi-thrift-cassandra-5-kismet-toolbox-docker-manuf.png&#34; width=&#34;240&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Below we share technical articles explaining step by step how to start with Apache NiFi, Ansible, WSO2 BAM, etc.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

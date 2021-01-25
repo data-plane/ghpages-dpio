@@ -6,40 +6,94 @@
     <description>Recent content in Tags on Data Plane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2020 21:19:00 +0200</lastBuildDate><atom:link href="https://data-plane.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 13:24:28 +0200</lastBuildDate><atom:link href="https://data-plane.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Github</title>
-      <link>https://data-plane.io/tags/github/</link>
-      <pubDate>Sun, 06 Sep 2020 21:19:00 +0200</pubDate>
+      <title>Big Data</title>
+      <link>https://data-plane.io/tags/big-data/</link>
+      <pubDate>Fri, 13 Nov 2020 13:24:28 +0200</pubDate>
       
-      <guid>https://data-plane.io/tags/github/</guid>
+      <guid>https://data-plane.io/tags/big-data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Markdown</title>
-      <link>https://data-plane.io/tags/markdown/</link>
-      <pubDate>Sun, 06 Sep 2020 21:19:00 +0200</pubDate>
+      <title>Privacy</title>
+      <link>https://data-plane.io/tags/privacy/</link>
+      <pubDate>Fri, 13 Nov 2020 13:24:28 +0200</pubDate>
       
-      <guid>https://data-plane.io/tags/markdown/</guid>
+      <guid>https://data-plane.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Website</title>
-      <link>https://data-plane.io/tags/website/</link>
-      <pubDate>Sun, 06 Sep 2020 21:19:00 +0200</pubDate>
+      <title>Security</title>
+      <link>https://data-plane.io/tags/security/</link>
+      <pubDate>Fri, 13 Nov 2020 13:24:28 +0200</pubDate>
       
-      <guid>https://data-plane.io/tags/website/</guid>
+      <guid>https://data-plane.io/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Web Design</title>
-      <link>https://data-plane.io/tags/web-design/</link>
-      <pubDate>Mon, 31 Aug 2020 13:24:28 +0200</pubDate>
+      <title>Ansible</title>
+      <link>https://data-plane.io/tags/ansible/</link>
+      <pubDate>Tue, 13 Oct 2020 13:24:28 +0200</pubDate>
       
-      <guid>https://data-plane.io/tags/web-design/</guid>
+      <guid>https://data-plane.io/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>https://data-plane.io/tags/automation/</link>
+      <pubDate>Tue, 13 Oct 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://data-plane.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://data-plane.io/tags/devops/</link>
+      <pubDate>Tue, 13 Oct 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://data-plane.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://data-plane.io/tags/microservices/</link>
+      <pubDate>Mon, 14 Sep 2020 21:19:00 +0200</pubDate>
+      
+      <guid>https://data-plane.io/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOM</title>
+      <link>https://data-plane.io/tags/mom/</link>
+      <pubDate>Mon, 14 Sep 2020 21:19:00 +0200</pubDate>
+      
+      <guid>https://data-plane.io/tags/mom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOA</title>
+      <link>https://data-plane.io/tags/soa/</link>
+      <pubDate>Mon, 14 Sep 2020 21:19:00 +0200</pubDate>
+      
+      <guid>https://data-plane.io/tags/soa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Services</title>
+      <link>https://data-plane.io/tags/web-services/</link>
+      <pubDate>Thu, 13 Aug 2020 20:56:54 +0200</pubDate>
+      
+      <guid>https://data-plane.io/tags/web-services/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on Data Plane</title>
+    <link>https://data-plane.io/tags/privacy/</link>
+    <description>Recent content in Privacy on Data Plane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Nov 2020 13:24:28 +0200</lastBuildDate><atom:link href="https://data-plane.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything generates data</title>
+      <link>https://data-plane.io/blog/everything-generates-data/</link>
+      <pubDate>Fri, 13 Nov 2020 13:24:28 +0200</pubDate>
+      
+      <guid>https://data-plane.io/blog/everything-generates-data/</guid>
+      <description>&lt;p&gt;Yes, in this digital world, everything generates data, but before starting moving huge mount of data from your devices, we recommend to plan (&lt;code&gt;data pipeline&lt;/code&gt;) your &lt;code&gt;BigData&lt;/code&gt; project by following these steps:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Capture&lt;/strong&gt;: Acquires, Integrates data.&lt;br&gt;
+&lt;strong&gt;Store&lt;/strong&gt;: Classification, Consolidate, Transformation, Storage Design, etc.&lt;br&gt;
+&lt;strong&gt;Analysis&lt;/strong&gt;: Exploration, visualization, modeling, prediction, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://holisticsecurity.files.wordpress.com/2016/02/chilcano-raspberrypi-bigdata-wifi-2-arch.png?w=240&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Following we share some technical articles we wrote about these topics.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

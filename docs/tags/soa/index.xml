@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOA on Data Plane</title>
+    <link>https://data-plane.io/tags/soa/</link>
+    <description>Recent content in SOA on Data Plane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Sep 2020 21:19:00 +0200</lastBuildDate><atom:link href="https://data-plane.io/tags/soa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOA, MOM and Microservices-based Architectures</title>
+      <link>https://data-plane.io/blog/soa-mom-microservices-architectures/</link>
+      <pubDate>Mon, 14 Sep 2020 21:19:00 +0200</pubDate>
+      
+      <guid>https://data-plane.io/blog/soa-mom-microservices-architectures/</guid>
+      <description>&lt;p&gt;Message Oriented Middleware (MOM) is a concept that involves the asynchronously passing of messages between applications. According to Wikipedia, Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://raw.githubusercontent.com/chilcano/docker-wso2-dev-srv/master/chilcano-wso2-dev-srv-docker-containers-map.png&#34; width=&#34;240&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Security in Web Services</title>
+      <link>https://data-plane.io/blog/security-in-web-services/</link>
+      <pubDate>Thu, 13 Aug 2020 20:56:54 +0200</pubDate>
+      
+      <guid>https://data-plane.io/blog/security-in-web-services/</guid>
+      <description>&lt;p&gt;This post describes how the world of Web Services and the world of information security are coming together. Web Services and security make a compelling match, because Web Services need security in order to widespread deployment, and security technologies need the ease of deployment provided by Web Services. In theory at least, this is a win-win situation. The downside, though, is that the technologies can be complex and difficult to understand.&lt;/p&gt;
+&lt;p&gt;This post will try to help you understand Web Service security by explaining these technologies.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Services on Data Plane</title>
+    <link>https://data-plane.io/tags/web-services/</link>
+    <description>Recent content in Web Services on Data Plane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Aug 2020 20:56:54 +0200</lastBuildDate><atom:link href="https://data-plane.io/tags/web-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security in Web Services</title>
+      <link>https://data-plane.io/blog/security-in-web-services/</link>
+      <pubDate>Thu, 13 Aug 2020 20:56:54 +0200</pubDate>
+      
+      <guid>https://data-plane.io/blog/security-in-web-services/</guid>
+      <description>&lt;p&gt;This post describes how the world of Web Services and the world of information security are coming together. Web Services and security make a compelling match, because Web Services need security in order to widespread deployment, and security technologies need the ease of deployment provided by Web Services. In theory at least, this is a win-win situation. The downside, though, is that the technologies can be complex and difficult to understand.&lt;/p&gt;
+&lt;p&gt;This post will try to help you understand Web Service security by explaining these technologies.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

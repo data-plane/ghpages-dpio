@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Data Plane</title>
-    <link>https://data-plane.io/blog/</link>
-    <description>Recent content in Blog on Data Plane</description>
+    <title>Security on Data Plane</title>
+    <link>https://data-plane.io/tags/security/</link>
+    <description>Recent content in Security on Data Plane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2020 13:05:16 +0200</lastBuildDate><atom:link href="https://data-plane.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 13:24:28 +0200</lastBuildDate><atom:link href="https://data-plane.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Everything generates data</title>
       <link>https://data-plane.io/blog/everything-generates-data/</link>
@@ -19,32 +19,6 @@
 &lt;strong&gt;Analysis&lt;/strong&gt;: Exploration, visualization, modeling, prediction, etc.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://holisticsecurity.files.wordpress.com/2016/02/chilcano-raspberrypi-bigdata-wifi-2-arch.png?w=240&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Following we share some technical articles we wrote about these topics.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Automation in Big Data Projects</title>
-      <link>https://data-plane.io/blog/automation-in-bigdata/</link>
-      <pubDate>Tue, 13 Oct 2020 13:24:28 +0200</pubDate>
-      
-      <guid>https://data-plane.io/blog/automation-in-bigdata/</guid>
-      <description>&lt;p&gt;If you are involved in Big Data, Data Lake, Machine Learning or IA projects, the big concern is how to move huge amount of data smoothly. The short answer is with &lt;strong&gt;automation&lt;/strong&gt;. You will need to automatize bored, manual and heavy tasks along the Capture, Store and Analysis stages.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://raw.githubusercontent.com/chilcano/docker-wso2bam-kismet-poc/master/chilcano-wso2bam-wifi-thrift-cassandra-5-kismet-toolbox-docker-manuf.png&#34; width=&#34;240&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;p&gt;Below we share technical articles explaining step by step how to start with Apache NiFi, Ansible, WSO2 BAM, etc.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>SOA, MOM and Microservices-based Architectures</title>
-      <link>https://data-plane.io/blog/soa-mom-microservices-architectures/</link>
-      <pubDate>Mon, 14 Sep 2020 21:19:00 +0200</pubDate>
-      
-      <guid>https://data-plane.io/blog/soa-mom-microservices-architectures/</guid>
-      <description>&lt;p&gt;Message Oriented Middleware (MOM) is a concept that involves the asynchronously passing of messages between applications. According to Wikipedia, Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://raw.githubusercontent.com/chilcano/docker-wso2-dev-srv/master/chilcano-wso2-dev-srv-docker-containers-map.png&#34; width=&#34;240&#34;/&gt; 
-&lt;/figure&gt;</description>
     </item>
     
     <item>

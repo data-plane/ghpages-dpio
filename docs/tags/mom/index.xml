@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MOM on Data Plane</title>
+    <link>https://data-plane.io/tags/mom/</link>
+    <description>Recent content in MOM on Data Plane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Sep 2020 21:19:00 +0200</lastBuildDate><atom:link href="https://data-plane.io/tags/mom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOA, MOM and Microservices-based Architectures</title>
+      <link>https://data-plane.io/blog/soa-mom-microservices-architectures/</link>
+      <pubDate>Mon, 14 Sep 2020 21:19:00 +0200</pubDate>
+      
+      <guid>https://data-plane.io/blog/soa-mom-microservices-architectures/</guid>
+      <description>&lt;p&gt;Message Oriented Middleware (MOM) is a concept that involves the asynchronously passing of messages between applications. According to Wikipedia, Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://raw.githubusercontent.com/chilcano/docker-wso2-dev-srv/master/chilcano-wso2-dev-srv-docker-containers-map.png&#34; width=&#34;240&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
